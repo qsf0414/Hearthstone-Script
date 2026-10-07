@@ -20,7 +20,7 @@
 	branch = master
 [submodule "hs-script-base-strategy-plugin"]
 	path = hs-script-base-strategy-plugin
-	url = https://github.com/xjw580/hs-script-base-strategy-plugin.git
+	url = https://github.com/qsf0414/hs-script-base-strategy-plugin.git
 	branch = master
 [submodule "hs-script-base-card-plugin"]
 	path = hs-script-base-card-plugin
